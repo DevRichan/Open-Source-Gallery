@@ -11,8 +11,6 @@ Machine Learning - Regression
 
 No |  Title  | Link | Information |
 ------|--------|---------------|-------|
-
-
 1|Housing price in Beijing |  https://github.com/DevRichan/PF-4-Final-Project-Purwadhika-House-Price-In-Beijing | Final Project Purwadhika |
 
 
