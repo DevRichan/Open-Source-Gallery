@@ -2,7 +2,7 @@
 
 
 Author : 
-Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast | rickichidayatullah@gmail.com | https://www.linkedin.com/in/rickichidayatullah/
+Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast | rickichidayatullah@gmail.com | https://www.linkedin.com/in/rickichidayatullah/ | https://www.kaggle.com/devrichan/code
 
 
 ### Professional Project's (Side Job) : 
