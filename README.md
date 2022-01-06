@@ -2,7 +2,7 @@
 
 
 Author : 
-Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast
+Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast | rickichidayatullah@gmail.com | https://www.linkedin.com/in/rickichidayatullah/
 
 
 ### Professional Project's : 
@@ -12,9 +12,9 @@ No | Title | Client |
 1| Anomaly Classification of Public Transport Vehicle Activities  | College Student (Research) |
 2| Dashboard MyDigiLearn Indonesia  | PT Telkom Indonesia Tbk |
 
-Contact's : 
 
-LinkedIn: https://www.linkedin.com/in/rickichidayatullah/
+
+
 
 Email : rickichidayatullah@gmail.com
 
