@@ -35,7 +35,8 @@ Professional projects :
 No | Title  | Link | Information | Client | Status |
 ------|--------|---------------|-------|-------|-------|-------|
 1| Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | College Student | Done |
-1| MyDigiLearn Dashboard |  Private | Private | PT Telkom Indonesia Tbk | In Progress |
+
+2| MyDigiLearn Dashboard |  Private | Private | PT Telkom Indonesia Tbk | In Progress |
 
 Author : 
 
