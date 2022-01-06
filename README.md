@@ -36,7 +36,8 @@ Professional Project's :
 
 No | Title | Client | 
 ------|--------|---------------|
-1| Anomaly Classification of Public Transport Vehicle Activities  |   College Student |
+1| Anomaly Classification of Public Transport Vehicle Activities  | College Student (Research) |
+2| MyDigiLearn Indonesia  | PT Telkom Indonesia Tbk |
 
 
 Author : 
