@@ -1,6 +1,16 @@
 # Open Source Gallery
 
 
+Author : 
+Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast
+
+
+### Professional Project's : 
+
+No | Title | Client | 
+------|--------|---------------|
+1| Anomaly Classification of Public Transport Vehicle Activities  | College Student (Research) |
+2| Dashboard MyDigiLearn Indonesia  | PT Telkom Indonesia Tbk |
 
 LinkedIn: https://www.linkedin.com/in/rickichidayatullah/
 
@@ -31,14 +41,8 @@ No |  Title  | Link |
 
 
 
-Professional Project's : 
-
-No | Title | Client | 
-------|--------|---------------|
-1| Anomaly Classification of Public Transport Vehicle Activities  | College Student (Research) |
-2| Dashboard MyDigiLearn Indonesia  | PT Telkom Indonesia Tbk |
 
 
-Author : 
 
-Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast
+
+
