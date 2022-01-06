@@ -13,7 +13,9 @@ No | Title | Client |
 2| Dashboard MyDigiLearn Indonesia  | PT Telkom Indonesia Tbk |
 
 Contact's : 
+
 LinkedIn: https://www.linkedin.com/in/rickichidayatullah/
+
 Email : rickichidayatullah@gmail.com
 
 
