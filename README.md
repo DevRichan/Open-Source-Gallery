@@ -10,7 +10,7 @@ Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast | ri
 No | Title | Position | Client | 
 ------|--------|---------------|------|
 1| Anomaly Classification of Public Transport Vehicle Activities  | Machine Learning Engineer | College Student |
-2| Team Leader - Dashboard MyDigiLearn Indonesia  | Team Leader | PT Telkom Indonesia Tbk |
+2| Dashboard MyDigiLearn Indonesia  | Team Leader | PT Telkom Indonesia Tbk |
 
 
 
