@@ -32,10 +32,10 @@ No |  Title  | Link | Information |
 
 
 Professional projects : 
-No | Date |  Title  | Link | Information | Client | Status |
+No | Title  | Link | Information | Client | Status |
 ------|--------|---------------|-------|-------|-------|-------|
-1|16 - 20 Februari 2021 | Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | College Student | Done |
-2
+1| Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | College Student | Done |
+1| MyDigiLearn Dashboard |  Private | Private | PT Telkom Indonesia Tbk | In Progress |
 
 Author : 
 
