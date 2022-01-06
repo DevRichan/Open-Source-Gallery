@@ -35,7 +35,7 @@ No |  Title  | Link |
 Professional Project's : 
 
 No | Title | Client | 
-------|--------|---------------|-------|
+------|--------|---------------|
 1| Anomaly Classification of Public Transport Vehicle Activities  |   College Student |
 
 
