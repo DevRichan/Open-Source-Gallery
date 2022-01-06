@@ -34,6 +34,10 @@ No |  Title  | Link |
 
 Professional Project's : 
 
+No | Title  | Link | Information | Client | Status |
+------|--------|---------------|-------|-------|-------|-------|
+1| Anomaly Classification of Public Transport Vehicle Activities  |  Private | Private | College Student | Done |
+
 
 Author : 
 
