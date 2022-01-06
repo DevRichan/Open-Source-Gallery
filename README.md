@@ -27,7 +27,7 @@ No |  Title  | Link |
 
 ### Journal 
 No |  Title  | Link |
-------|--------|---------------|-------|
+------|--------|---------------|
 1|Convolutional Neural Network Architecture and Data Augmentation for Pneumonia Classification from Chest X-Rays Images|https://ijisrt.com/assets/upload/files/IJISRT20FEB134.pdf|
 
 
