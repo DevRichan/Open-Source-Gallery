@@ -5,7 +5,7 @@ Author :
 Ricki Chandra Hidayatullah | Data Scientist and Machine Learning Enthusiast | rickichidayatullah@gmail.com | https://www.linkedin.com/in/rickichidayatullah/
 
 
-### Professional Project's : 
+### Professional Project's (Side Job) : 
 
 No | Title | Position | Client | 
 ------|--------|---------------|------|
